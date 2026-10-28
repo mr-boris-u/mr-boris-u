@@ -49,7 +49,7 @@ I'm a web development student based in the Greater Toronto Area, building a soli
   <a href="https://github.com/mr-boris-u">
     <img src="https://img.shields.io/badge/GitHub-mr--boris--u-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="www.linkedin.com/in/boris-urtenov-59545528b">
+  <a href="https://linkedin.com/in/boris-urtenov-59545528b">
     <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
