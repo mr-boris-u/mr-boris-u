@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Boris 👋</h1>
 
-<!--
-**mr-boris-u/mr-boris-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>Student Developer | Learning Web Development</em></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="PASTE-GIF-LINK-HERE" width="500">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🎓 Studying web development
+- 🌱 Currently learning Git, HTML, CSS and JavaScript
+- 📍 Mississauga, ON
+
+## Tools I use
+VS Code · Git · GitHub · Terminal
+
+## Contact
+- GitHub: [@mr-boris-u](https://github.com/mr-boris-u)
