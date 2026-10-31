@@ -38,6 +38,7 @@ Front-end web development student at triOS College, focused on writing clean, ac
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
+
 ### 📈 GitHub activity
 
 <p align="center">
@@ -51,6 +52,7 @@ Front-end web development student at triOS College, focused on writing clean, ac
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-boris-u/mr-boris-u/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/mr-boris-u/mr-boris-u/output/github-snake.svg" alt="Snake eating my contribution graph" />
 </picture>
+
 ### 📂 Recent work
 
 - [git-practice](https://github.com/mr-boris-u/git-practice): practicing the Git workflow of cloning, committing and pushing
