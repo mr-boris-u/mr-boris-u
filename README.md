@@ -14,12 +14,12 @@
 
 ### 🙋 About me
 
-I'm a web development student based in the Greater Toronto Area, building a solid foundation in front-end development and version control. I enjoy turning ideas into clean, working pages and learning something new with every project.
+Front-end web development student at triOS College, focused on writing clean, accessible HTML, CSS and JavaScript. I use Git and GitHub every day, managing work through branches, issues, pull requests and code reviews the way professional teams do. I'm looking for opportunities to contribute to real projects and grow as a developer.
 
-- 🎓 Currently studying web development
-- 🌱 Learning Git, HTML, CSS and JavaScript
-- 🎯 Goal: build responsive, accessible websites
-- 📍 Mississauga, ON
+- 💻 Building responsive, accessible web pages
+- 🔀 Comfortable with Git workflows: branching, PRs, merge conflicts
+- 🌱 Currently deepening my JavaScript skills
+- 📍 Mississauga, ON, Canada
 
 ### 🛠️ Tech stack
 
@@ -38,7 +38,15 @@ I'm a web development student based in the Greater Toronto Area, building a soli
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </p>
+### 📈 GitHub activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-boris-u&theme=github-compact&hide_border=true" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mr-boris-u&hide_border=true" alt="GitHub streak" />
+</p>
 ### 📂 Recent work
 
 - [git-practice](https://github.com/mr-boris-u/git-practice): practicing the Git workflow of cloning, committing and pushing
