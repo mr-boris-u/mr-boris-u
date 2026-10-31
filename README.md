@@ -42,19 +42,19 @@ Front-end web development student at triOS College, focused on writing clean, ac
 ### 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-boris-u&theme=github-compact&hide_border=true" alt="Activity graph" />
+  <img src="https://streak-stats.demolab.com?user=mr-boris-u&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-boris-u&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-boris-u/mr-boris-u/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/mr-boris-u/mr-boris-u/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-boris-u/mr-boris-u/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/mr-boris-u/mr-boris-u/output/github-snake.svg" alt="Snake eating my contribution graph" />
-</picture>
 
 ### 📂 Recent work
 
+- [VCC_2](https://github.com/mr-boris-u/VCC_2): issues, branches, pull requests and code reviews in a full GitHub workflow
 - [git-practice](https://github.com/mr-boris-u/git-practice): practicing the Git workflow of cloning, committing and pushing
 
 ### 📫 Get in touch
